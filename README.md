@@ -25,4 +25,4 @@ Welcome to my portfolio! I am a final-year B.Com (Honours) student at University
 ---
 **Technical Skills:** Data Cleaning (ETL), DAX Measures, Power BI, Advanced Excel, Data Analysis.
 
-**Connect with me:** [Your LinkedIn Profile Link]
+**Connect with me:** [www.linkedin.com/in/lavanya-dixit-429377335]
