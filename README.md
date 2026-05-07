@@ -1,24 +1,28 @@
 # Data Analytics Portfolio | Power BI & Excel
 
-Welcome to my portfolio! I am a final-year B.Com (Honours) student at Delhi University, focused on transforming raw data into actionable business insights.
+Welcome to my portfolio! I am a final-year B.Com (Honours) student at University of Delhi. I specialize in data visualization and business intelligence to drive operational efficiency.
 
 ---
 
 ## 🛍️ Project 1: Blinkit Sales Analysis
-**Business Case:** Analyzing delivery performance and sales trends for a quick-commerce platform to optimize inventory and dark-store operations.
-* **Tools:** Power BI, Power Query, Advanced Excel.
-* **Key Insights:** Tracking outlet establishment growth, item fat-content distribution, and regional sales performance.
-* **Folder:** [Explore Blinkit Files](./Blinkit%20Analytics%20Dashboard)
+**Objective:** Analyzing sales performance and outlet efficiency for a quick-commerce platform to optimize inventory.
+* **Tools:** Power BI, Advanced Excel, Power Query.
+* **Key Features:** Interactive KPI tracking, outlet growth trends, and item fat-content analysis.
+* **Resources:** [View Project Folder](./Blinkit%20Analysis%20Project)
+
+![Blinkit Dashboard](./Blinkit%20Analysis%20Project/Blinkit-ss.png)
 
 ---
 
-## 📈 Project 2: E-commerce Sales Tracker
-**Business Case:** A comprehensive sales dashboard for 'Madhav Store' to monitor regional profitability and customer purchasing patterns across India.
-* **Tools:** Data Modeling, DAX, Pivot Tables, Power BI Visualization.
-* **Key Insights:** Regional sales mapping, payment method analysis, and monthly profit trends.
-* **Folder:** [Explore E-commerce Files](./Ecommerce-Sales-Project)
+## 📈 Project 2: Superstore Sales Tracker
+**Objective:** A comprehensive retail dashboard to monitor regional profitability and customer purchasing patterns.
+* **Tools:** Data Modeling, DAX, Power BI Visualization.
+* **Key Features:** Geospatial sales mapping, payment method breakdown, and monthly profit analysis.
+* **Resources:** [View Project Folder](./Superstore%20Analysis%20Project)
+
+![Superstore Dashboard](./Superstore%20Analysis%20Project/Superstore-ss.png)
 
 ---
-**Technical Skills:** Data Cleaning (ETL), DAX Measures, Data Modeling, Power BI Dashboarding, Advanced Excel.
+**Technical Skills:** Data Cleaning (ETL), DAX Measures, Power BI, Advanced Excel, Data Analysis.
 
-**LinkedIn:** [Your Profile Link Here]
+**Connect with me:** [Your LinkedIn Profile Link]
